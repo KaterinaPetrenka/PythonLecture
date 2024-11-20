@@ -1,3 +1,5 @@
+#lecture_1
+
 vek = input("Zadej vek: ")
 
 try:
